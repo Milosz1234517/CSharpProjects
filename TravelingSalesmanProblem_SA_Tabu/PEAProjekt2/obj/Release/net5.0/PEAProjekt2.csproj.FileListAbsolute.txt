@@ -1,0 +1,16 @@
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\bin\Release\net5.0\PEAProjekt2.exe
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\bin\Release\net5.0\PEAProjekt2.deps.json
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\bin\Release\net5.0\PEAProjekt2.runtimeconfig.json
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\bin\Release\net5.0\PEAProjekt2.runtimeconfig.dev.json
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\bin\Release\net5.0\PEAProjekt2.dll
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\bin\Release\net5.0\ref\PEAProjekt2.dll
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\bin\Release\net5.0\PEAProjekt2.pdb
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\PEAProjekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\PEAProjekt2.AssemblyInfoInputs.cache
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\PEAProjekt2.AssemblyInfo.cs
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\PEAProjekt2.csproj.CoreCompileInputs.cache
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\PEAProjekt2.dll
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\ref\PEAProjekt2.dll
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\PEAProjekt2.pdb
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\PEAProjekt2.genruntimeconfig.cache
+C:\Users\milro\source\repos\PEAProjekt2\PEAProjekt2\obj\Release\net5.0\PEAProjekt2.csproj.AssemblyReference.cache

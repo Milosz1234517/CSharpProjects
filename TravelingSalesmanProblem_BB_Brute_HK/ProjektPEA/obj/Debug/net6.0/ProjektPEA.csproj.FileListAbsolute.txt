@@ -1,0 +1,15 @@
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\bin\Debug\net6.0\ProjektPEA.exe
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\bin\Debug\net6.0\ProjektPEA.deps.json
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\bin\Debug\net6.0\ProjektPEA.runtimeconfig.json
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\bin\Debug\net6.0\ProjektPEA.dll
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\bin\Debug\net6.0\ref\ProjektPEA.dll
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\bin\Debug\net6.0\ProjektPEA.pdb
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ProjektPEA.csproj.AssemblyReference.cache
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ProjektPEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ProjektPEA.AssemblyInfoInputs.cache
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ProjektPEA.AssemblyInfo.cs
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ProjektPEA.csproj.CoreCompileInputs.cache
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ProjektPEA.dll
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ref\ProjektPEA.dll
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ProjektPEA.pdb
+C:\Users\milro\source\repos\ProjektPEA\ProjektPEA\obj\Debug\net6.0\ProjektPEA.genruntimeconfig.cache

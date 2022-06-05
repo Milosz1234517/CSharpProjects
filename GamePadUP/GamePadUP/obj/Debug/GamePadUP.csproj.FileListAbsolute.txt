@@ -1,0 +1,13 @@
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\bin\Debug\GamePadUP.exe.config
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\bin\Debug\GamePadUP.exe
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\bin\Debug\GamePadUP.pdb
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\obj\Debug\GamePadUP.csprojAssemblyReference.cache
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\obj\Debug\GamePadUP.Form1.resources
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\obj\Debug\GamePadUP.Properties.Resources.resources
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\obj\Debug\GamePadUP.csproj.GenerateResource.cache
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\obj\Debug\GamePadUP.csproj.CoreCompileInputs.cache
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\obj\Debug\GamePadUP.csproj.CopyComplete
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\obj\Debug\GamePadUP.exe
+C:\Users\milro\source\repos\GamePadUP\GamePadUP\obj\Debug\GamePadUP.pdb
